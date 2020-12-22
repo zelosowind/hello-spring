@@ -3,7 +3,7 @@
 - View  환경설정
 - 빌드하고 실행하기 
 - 정적컨텐츠
-- MVC와 템플릿 엔진
+- MVC와 템플릿 엔진 (thymeleaf 사용)
 - API
  @ResponseBody를 사용
  HTTP의 BODY에 문자 내용을 직접 변환
